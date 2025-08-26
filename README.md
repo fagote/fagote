@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor apaixonado por tecnologia e resolução de problemas.  
 🎯 Foco em desenvolvimento **Web**, **Laravel**, **PHP**, **Java**, **Docker** e **CI/CD**.  
-📚 Sempre em busca de aprimorar minhas habilidades em **ciência de dados**, **redes** e **sistemas embarcados**.  
+📚 Sempre em busca de aprimorar minhas habilidades em **desenvolvimento backend**, **web** e **Full Stack**.  
 
 ---
 
