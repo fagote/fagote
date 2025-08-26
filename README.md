@@ -23,7 +23,7 @@
 ---
 
 ## 📫 Conecte-se comigo  
-- 💼 [LinkedIn](www.linkedin.com/in/leonardo-fagote-79b067277)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-fagote-79b067277)  
 - ✉️ leofagot80@gmail.com  
 
 ---
